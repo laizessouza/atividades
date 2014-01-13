@@ -4,7 +4,7 @@
 <input type="radio" name="cor" value="a" checked="checked" />
 <label>Azul</label>
 <input type="radio" name="cor" value="v" />
-<label>Vermelhor</label>
+<label>Vermelho</label>
 <input type="radio" name="cor" value="l" />
 <label>laranja</label>
 <br/>
