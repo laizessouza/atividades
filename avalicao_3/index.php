@@ -1,10 +1,13 @@
 <style>
-    .m{
+    .azul{
         color: blue;
     }
-    .f{
+    .vermelho{
         color: red;
     }
+    .laranja{
+        color: orange;
+    }   
 </style>
 
 <?php
