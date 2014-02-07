@@ -1,0 +1,77 @@
+body {
+ background-color: #FFFFF0;
+    color: #8B8B7A
+
+
+;
+
+
+}
+
+body{
+    margin: 20;
+
+}
+
+header{
+    background-color: #CDCDB4;
+    height: 50px;
+}
+
+header h1{
+    margin-top: 50px;
+    padding: 5px;
+    text-align: center;
+    font-weight: normal;
+    font-family: Geogia, #E8E8E8;
+
+}
+
+section, footer{
+    margin: 0 15px 0 25px;
+
+}
+
+section p{
+    font-size: 20px;
+    font-family: normal, sans-serif;
+    text-align: justify;
+
+}
+
+img{
+    height: 177px;
+    width: 170px;
+    float: left;
+}
+ 
+footer{
+    margin-top: 20px;
+    border: 1px groove black;
+    border-left: none;
+    border-right: none;
+     color: #808080;
+    height: 30px;
+}
+
+footer address{
+    margin-left: 20px;
+    font-style: normal;
+    font-weight: solid;
+    
+    padding: 10px
+    
+    
+    
+}
+
+section h3{
+    border-bottom: 1px solid #880000 ;
+    border: 10px solid gray;
+    padding: 10px;
+
+
+    
+}
+
+
